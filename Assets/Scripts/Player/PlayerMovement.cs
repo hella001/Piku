@@ -12,7 +12,7 @@ public class PlayerMovement : MonoBehaviour
     public Rigidbody2D playerRB;
     public float speed = 400;
     public Animator animator;
-    bool isFachingRight = true;
+    public bool isFachingRight = true;
 
     public float jumpForce = 5;
     int numberOfJumps = 0;
@@ -41,7 +41,7 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.1f, groundLayer);
+        isGrounded = Physics2D.OverlapCircle(groundCheck.position, 2f, groundLayer);
         //Debug.Log(isGrounded);
         animator.SetBool("isGrounded", isGrounded);
         playerRB.velocity = new Vector2 (direction * speed * Time.fixedDeltaTime, playerRB.velocity.y);
