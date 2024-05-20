@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class FierceTooth : MonoBehaviour
 {
 
-    Transform target;
+    GameObject target;
     public Transform borderCheck;
     public int enemyHp = 100;
     public Animator animator;
@@ -16,14 +16,14 @@ public class FierceTooth : MonoBehaviour
     void Start()
     {
         enemyHealthBar.value = enemyHp;
-        target = GameObject.FindGameObjectWithTag("Player").transform;
+        target = GameObject.FindGameObjectWithTag("Player");
         //Physics2D.IgnoreCollision(target.GetComponent<Collider2D>(), GetComponent<Collider2D>());
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (target.position.x > transform.position.x)
+        if (target.transform.position.x > transform.position.x)
         {
             transform.localScale = new Vector2(2f, 2f);
         }
@@ -49,6 +49,14 @@ public class FierceTooth : MonoBehaviour
                 this.enabled = false;
                 //Destroy(gameObject); // Hancurkan musuh
             }
+        }
+    }
+
+    public void PlayerDamage()
+    {
+        if (!target.GetComponent<PlayerCollision>().isInvincible)
+        {
+            target.GetComponent<PlayerCollision>().TakeDamage();
         }
     }
 }

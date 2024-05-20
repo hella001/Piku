@@ -1,11 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
-using System.Text.RegularExpressions;
 using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-
     PlayerControls controls;
     float direction = 0;
 
@@ -14,7 +12,7 @@ public class PlayerMovement : MonoBehaviour
     public Animator animator;
     public bool isFachingRight = true;
 
-    public float jumpForce = 5;
+    public float jumpForce = 7;
     int numberOfJumps = 0;
     bool isGrounded;
     public Transform groundCheck;
@@ -32,22 +30,26 @@ public class PlayerMovement : MonoBehaviour
 
         controls.Land.Jump.performed += ctx => Jump();
     }
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
     void FixedUpdate()
     {
-        isGrounded = Physics2D.OverlapCircle(groundCheck.position, 2f, groundLayer);
-        //Debug.Log(isGrounded);
+        RaycastHit2D[] hits = Physics2D.CapsuleCastAll(
+            groundCheck.position,
+            new Vector2(0.3293138f, 0.9425843f),
+            CapsuleDirection2D.Horizontal,
+            0.1f,
+            Vector2.down,
+            0.1f,
+            groundLayer
+        );
+
+        isGrounded = (hits.Length > 0);
         animator.SetBool("isGrounded", isGrounded);
-        playerRB.velocity = new Vector2 (direction * speed * Time.fixedDeltaTime, playerRB.velocity.y);
+
+        playerRB.velocity = new Vector2(direction * speed * Time.fixedDeltaTime, playerRB.velocity.y);
         animator.SetFloat("speed", Mathf.Abs(direction));
 
-        if (isFachingRight && direction < 0 || !isFachingRight && direction >0 )
+        if (isFachingRight && direction < 0 || !isFachingRight && direction > 0)
             Flip();
     }
 
@@ -59,23 +61,22 @@ public class PlayerMovement : MonoBehaviour
 
     void Jump()
     {
-        //Debug.Log("Player jump");
-        if (isGrounded)
+        if (isGrounded || numberOfJumps < 2)
         {
-            numberOfJumps = 0;
-            playerRB.velocity = new Vector2(playerRB.velocity.x, jumpForce);
-            numberOfJumps++;
             AudioManager.instance.Play("FirsJump");
-        }
-        else
-        {
-            if(numberOfJumps == 1)
+            playerRB.velocity = new Vector2(playerRB.velocity.x, jumpForce);
+            numberOfJumps++; 
+
+            if (numberOfJumps == 0)
             {
-                playerRB.velocity = new Vector2(playerRB.velocity.x, jumpForce);
-                numberOfJumps++;
-                AudioManager.instance.Play("SecondJump");
+                animator.SetTrigger("Jump");
+                AudioManager.instance.Play("FirsJump");
+            }
+            else if (numberOfJumps == 1)
+            {
+                //AudioManager.instance.Play("SecondJump");
+                AudioManager.instance.Play("FirsJump");
             }
         }
-            
     }
 }
