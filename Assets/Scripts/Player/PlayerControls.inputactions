@@ -31,6 +31,15 @@
                     "processors": "",
                     "interactions": "Press(behavior=2)",
                     "initialStateCheck": false
+                },
+                {
+                    "name": "Dialogue",
+                    "type": "Button",
+                    "id": "dafe11d3-7f71-47a4-92be-2c3ab6a3a365",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -119,6 +128,17 @@
                     "processors": "",
                     "groups": "",
                     "action": "AttackSword",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ac68833e-b6db-4fd0-92c3-56416141a403",
+                    "path": "<Keyboard>/g",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Dialogue",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

@@ -1,0 +1,17 @@
+Change Log Sky 1.0 (10/05/2024)
+-Added Idle Animation
+-Added Run Animation
+-Added Atk 1 Animation
+-Added Atk 2 Animation
+-Added Atk 3 Animation
+-Added Jump & Loop Animation
+-Added Fall & Loop Animation
+-Added Hurt Animation
+
+Change Log Sky 2.0 (14/05/2024)
+-Resized & Remodeled Sprite (Sky 2.0)
+-Revised Atk 1,2,3 Animation
+-Revised Jump Animation
+-Revised Fall Animation
+-Added Land Animation
+-Added Death Animation

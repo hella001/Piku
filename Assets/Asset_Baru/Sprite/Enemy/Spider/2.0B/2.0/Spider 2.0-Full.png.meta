@@ -1,0 +1,1218 @@
+fileFormatVersion: 2
+guid: 819e0f045067a14458c0e9b757cc1dbe
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spider 2.0-Full_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 379.2
+        width: 112.545456
+        height: 94.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18b9ec5ebe53d749918f145ed98f36e
+      internalID: 1697427327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 379
+        width: 113
+        height: 95
+      alignment: 9
+      pivot: {x: 0.51469046, y: 0.5000003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89bcc097797d8d4991fc8506922d41e
+      internalID: 1044386587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 379
+        width: 113
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5176286, y: 0.5000003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9235fde78740fd4ba868f3cb06271b6
+      internalID: 2057790908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 379.2
+        width: 112.545456
+        height: 94.8
+      alignment: 9
+      pivot: {x: 0.5383494, y: 0.49649814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58f006eacabb0e4897878aa50a8f7e5
+      internalID: -963820624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 379.2
+        width: 112.545456
+        height: 94.8
+      alignment: 9
+      pivot: {x: 0.5560489, y: 0.49649814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083e2e1c41482b046afedafac09e1101
+      internalID: -1086927690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_5
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 379.2
+        width: 112.545456
+        height: 94.8
+      alignment: 9
+      pivot: {x: 0.5766984, y: 0.50000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1aae6b6cfdf5c4da29dfa552031a12
+      internalID: -1828931714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_6
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 379.2
+        width: 112.545456
+        height: 94.8
+      alignment: 9
+      pivot: {x: 0.5914478, y: 0.50000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed57a7ae508037489f7930ffb579819
+      internalID: -78421519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_7
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 379.2
+        width: 112.545456
+        height: 94.8
+      alignment: 9
+      pivot: {x: 0.62094754, y: 0.50000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce3df64ed01104428c3e112d6422ee6
+      internalID: -1006369887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_8
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 379.2
+        width: 112.545456
+        height: 94.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74df170a2cbe4234aa8cc9700ae1b5b5
+      internalID: -1637572029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285.2
+        width: 112.545456
+        height: 94.8
+      alignment: 9
+      pivot: {x: 0.50332123, y: 0.48817146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b3f5fdbe4af2040ab6b273abfc646e
+      internalID: -1522571627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 285.2
+        width: 112.545456
+        height: 94.8
+      alignment: 9
+      pivot: {x: 0.524899, y: 0.48028582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7f7dea04f7b484eb60cc4daac19914
+      internalID: 1710183476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 285
+        width: 113
+        height: 95
+      alignment: 9
+      pivot: {x: 0.53319854, y: 0.48918843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cb5baf9c7a65e48896629a066c42e9
+      internalID: -517014127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 285.2
+        width: 112.545456
+        height: 94.8
+      alignment: 9
+      pivot: {x: 0.55311906, y: 0.4881721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50354c01befdd044eb068f74a7e50023
+      internalID: -2002306666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_13
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 285
+        width: 113
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5663971, y: 0.48918843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce5e0d35a12b1e448cc3fcb15528164
+      internalID: -359062463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_14
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 285.2
+        width: 112.545456
+        height: 94.8
+      alignment: 9
+      pivot: {x: 0.59129536, y: 0.4881718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9478e7474022ab840a77516eb246a971
+      internalID: 1056950802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_15
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 285
+        width: 113
+        height: 95
+      alignment: 9
+      pivot: {x: 0.6037446, y: 0.49312326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e09aab5a5d52ab458030ded9c719574
+      internalID: 542748485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_16
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 286
+        width: 113
+        height: 95
+      alignment: 9
+      pivot: {x: 0.62034404, y: 0.4754009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9770d01d416334ba4f586a26790d54
+      internalID: -207720742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_17
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 285.2
+        width: 112.545456
+        height: 94.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58135fe3d348c5479ab792c43b58be7
+      internalID: 1423208955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191.2
+        width: 112.545456
+        height: 94.8
+      alignment: 9
+      pivot: {x: 0.5030766, y: 0.44145945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48676247c526974f8b36ee652155c98
+      internalID: -2002007313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 191.2
+        width: 112.545456
+        height: 94.8
+      alignment: 9
+      pivot: {x: 0.5184602, y: 0.44155875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a1d2d6ae8b3f14fb38825b025b8f36
+      internalID: -286741237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 191.2
+        width: 112.545456
+        height: 94.8
+      alignment: 9
+      pivot: {x: 0.53076696, y: 0.4415586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027dc70dc7f914e49909caf027897e99
+      internalID: -1918759741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 191.2
+        width: 112.545456
+        height: 94.8
+      alignment: 9
+      pivot: {x: 0.5492271, y: 0.43883842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728b7d89a68c9624c8be2e9a4f51f4af
+      internalID: -3991319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 191.2
+        width: 112.545456
+        height: 94.8
+      alignment: 9
+      pivot: {x: 0.5676862, y: 0.44123507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8c50c71fc03494aaed1bbee77fb6fa
+      internalID: 2002085621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_23
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 191
+        width: 113
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5858008, y: 0.4380368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8f5ae44dd6d26418a5ab20f1ed5d12
+      internalID: -99221721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_24
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 191.2
+        width: 112.545456
+        height: 94.8
+      alignment: 9
+      pivot: {x: 0.60460705, y: 0.43425354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaa3d8ff86d1344d900ca001e653aec
+      internalID: 1578767598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_25
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 191.2
+        width: 112.545456
+        height: 94.8
+      alignment: 9
+      pivot: {x: 0.62614405, y: 0.437906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c160f6c7f1f872c40b1e0a4f2d3f2018
+      internalID: -1609797399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_26
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 191.2
+        width: 112.545456
+        height: 94.8
+      alignment: 9
+      pivot: {x: 0.63845134, y: 0.4365171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e2f1a906d2c054888c23e43c863a5a
+      internalID: 1779981496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_27
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 191.2
+        width: 112.545456
+        height: 94.8
+      alignment: 9
+      pivot: {x: 0.6624786, y: 0.44086438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a6bf0d494df49448061eaab8019c91
+      internalID: 1424816011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_28
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 191.2
+        width: 112.545456
+        height: 94.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f486c4fc258398458f86059af68cf8c
+      internalID: -1298305290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97.2
+        width: 112.545456
+        height: 94.8
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.39854476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6b1d685bfcccf49a2709d368cfff38
+      internalID: -218432877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 97
+        width: 113
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5085113, y: 0.39369637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97417cd97b03edd42af865cc4a1b0743
+      internalID: 2047458572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 97.2
+        width: 112.545456
+        height: 94.8
+      alignment: 9
+      pivot: {x: 0.504273, y: 0.39854476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95154a2c64dff24898b64b9c170dc26
+      internalID: 1943242414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_32
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 97.2
+        width: 112.545456
+        height: 94.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186388fa2d6575c4abf5b21c8194e1f2
+      internalID: 1891740109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 97.2
+        width: 112.545456
+        height: 94.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdfce8bd1bc60c4ab9b2c84d913bb95
+      internalID: -696347316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_34
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 97.2
+        width: 112.545456
+        height: 94.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559ab74b8c8ef3b4dac1147046557b0b
+      internalID: -1912031700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_35
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 97.2
+        width: 112.545456
+        height: 94.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b12fcf039730e49b314c26b96593b9
+      internalID: -332554400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_36
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 97.2
+        width: 112.545456
+        height: 94.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88c1fd7a437b59468f628d40cf0aaa4
+      internalID: -1421948133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_37
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 97.2
+        width: 112.545456
+        height: 94.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cb55d896062294fa984553f47d9ded
+      internalID: 900094542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_38
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 97.2
+        width: 112.545456
+        height: 94.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b495792146c033a489fe5b7b9734b296
+      internalID: -1469693390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_39
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 97.2
+        width: 112.545456
+        height: 94.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938e4c043ffa3b04b85eb035e01993f5
+      internalID: 1111656351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.199997
+        width: 112.545456
+        height: 94.8
+      alignment: 9
+      pivot: {x: 0.50406325, y: 0.35160583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb15f1de7c46c24886cf4b94e7a7314
+      internalID: -166988826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 3.199997
+        width: 112.545456
+        height: 94.8
+      alignment: 9
+      pivot: {x: 0.50406307, y: 0.35529187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0d6d210e58f9347be4a09853a2d2f0
+      internalID: -419364120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_42
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3.199997
+        width: 112.545456
+        height: 94.8
+      alignment: 9
+      pivot: {x: 0.52031547, y: 0.36493912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ed4d7f8f2de944e870cbd843f0b54d
+      internalID: 1937550021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_43
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 3.199997
+        width: 112.545456
+        height: 94.8
+      alignment: 9
+      pivot: {x: 0.55336607, y: 0.3582103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d253affb686fe642aa4efc523ae5bd3
+      internalID: -1486863645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_44
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3.199997
+        width: 112.545456
+        height: 94.8
+      alignment: 9
+      pivot: {x: 0.581262, y: 0.353387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6c781b319b1514eac8f36198746f2d
+      internalID: -2076867613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_45
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 3.199997
+        width: 112.545456
+        height: 94.8
+      alignment: 9
+      pivot: {x: 0.58587, y: 0.35273752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7741177f76c0b0746b1cd60ba330d1e4
+      internalID: -1101046280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_46
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3.199997
+        width: 112.545456
+        height: 94.8
+      alignment: 9
+      pivot: {x: 0.62622756, y: 0.35338634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec72a9c5989db64d8565bf06225ab7f
+      internalID: 1062025271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_47
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 3
+        width: 113
+        height: 95
+      alignment: 9
+      pivot: {x: 0.6370444, y: 0.35883212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd91ae0deb6bdf941884c3c3fad1b613
+      internalID: -1325115456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider 2.0-Full_48
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3.199997
+        width: 112.545456
+        height: 94.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c61a1f2bda8cb7489343657689246c1
+      internalID: 1669705598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Spider 2.0-Full_0: 1697427327
+      Spider 2.0-Full_1: 1044386587
+      Spider 2.0-Full_10: 1710183476
+      Spider 2.0-Full_11: -517014127
+      Spider 2.0-Full_12: -2002306666
+      Spider 2.0-Full_13: -359062463
+      Spider 2.0-Full_14: 1056950802
+      Spider 2.0-Full_15: 542748485
+      Spider 2.0-Full_16: -207720742
+      Spider 2.0-Full_17: 1423208955
+      Spider 2.0-Full_18: -2002007313
+      Spider 2.0-Full_19: -286741237
+      Spider 2.0-Full_2: 2057790908
+      Spider 2.0-Full_20: -1918759741
+      Spider 2.0-Full_21: -3991319
+      Spider 2.0-Full_22: 2002085621
+      Spider 2.0-Full_23: -99221721
+      Spider 2.0-Full_24: 1578767598
+      Spider 2.0-Full_25: -1609797399
+      Spider 2.0-Full_26: 1779981496
+      Spider 2.0-Full_27: 1424816011
+      Spider 2.0-Full_28: -1298305290
+      Spider 2.0-Full_29: -218432877
+      Spider 2.0-Full_3: -963820624
+      Spider 2.0-Full_30: 2047458572
+      Spider 2.0-Full_31: 1943242414
+      Spider 2.0-Full_32: 1891740109
+      Spider 2.0-Full_33: -696347316
+      Spider 2.0-Full_34: -1912031700
+      Spider 2.0-Full_35: -332554400
+      Spider 2.0-Full_36: -1421948133
+      Spider 2.0-Full_37: 900094542
+      Spider 2.0-Full_38: -1469693390
+      Spider 2.0-Full_39: 1111656351
+      Spider 2.0-Full_4: -1086927690
+      Spider 2.0-Full_40: -166988826
+      Spider 2.0-Full_41: -419364120
+      Spider 2.0-Full_42: 1937550021
+      Spider 2.0-Full_43: -1486863645
+      Spider 2.0-Full_44: -2076867613
+      Spider 2.0-Full_45: -1101046280
+      Spider 2.0-Full_46: 1062025271
+      Spider 2.0-Full_47: -1325115456
+      Spider 2.0-Full_48: 1669705598
+      Spider 2.0-Full_5: -1828931714
+      Spider 2.0-Full_6: -78421519
+      Spider 2.0-Full_7: -1006369887
+      Spider 2.0-Full_8: -1637572029
+      Spider 2.0-Full_9: -1522571627
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

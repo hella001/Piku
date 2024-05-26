@@ -1,0 +1,2670 @@
+fileFormatVersion: 2
+guid: f758e7c1b68f5bc4c89ac3aec2dba6db
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sky 2.0-Full_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6773c5d9a725b7d46901c51ffb68e94a
+      internalID: 1049144581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 960
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26601d30c84e8349b880a853408915e
+      internalID: -2035873135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 960
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7692711b021995544804807e8d64096c
+      internalID: -429099449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 960
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e129352c39fef47ae6a177355fbfd6
+      internalID: 986114074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e7113285838164482e35835314e79d
+      internalID: -592004163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 960
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a61a757e9b64444a724a041f2f5d7d
+      internalID: 1631243305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_6
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 960
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f51369eda1a2e4ea95b71e751e85d4
+      internalID: -1719090787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_7
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 960
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125ee03f14e1fad40b39a0c10371ea0f
+      internalID: -1943144084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6086b04c6bab6934fbf8efee4df97d8c
+      internalID: 480347055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 880
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01369cd8b6216ae4c93067d9881f27dd
+      internalID: 1962655503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 880
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc79062ca6fd1e4ba7de33adb537c87
+      internalID: 1805152877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_11
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 880
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4a80e9bd5ddc24ea2fae80de149da9
+      internalID: 284006314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 880
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed27a32d4e79a843af5b8638cd5d88f
+      internalID: 1671818135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 880
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4744f00ee4c8e458e19ee6d6b79100
+      internalID: -190290867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_14
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 880
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cf0aba0eaa2b74d9d877f51cc6218c
+      internalID: 409001961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_15
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 880
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd78c856289f0643b5a0ebc5fd9cc45
+      internalID: -1517068888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44197618b432d97489eb0952d8d70648
+      internalID: -352996574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 800
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfdf448fcd306d4ea4341b65538ca9a
+      internalID: 1053099072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 800
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fa3296b3695874a884d549ad23e7f4
+      internalID: -2053856741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_19
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 800
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b022565a561b69b47bf76764d3dcd3b8
+      internalID: -1383296404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_20
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 800
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dddd36e55248741b45fc0d2578bd2b
+      internalID: -1063885453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_21
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 800
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d6b010ca1cbcf4c9bfee1df747224e
+      internalID: 1136197430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_22
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 800
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051bbc5d283d25645b012c9de1d84e93
+      internalID: 1713098957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_23
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 800
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf5afb0a3d86234590724cdbfcd36bb
+      internalID: 541374401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_24
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 800
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d4f267d99bda545b40df8e4c2b818b
+      internalID: 1374965691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_25
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 800
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d5ca14bccdd2a488c18c760f8ddb71
+      internalID: -702124253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_26
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 800
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762cc731998d49d45ba6e1932f305895
+      internalID: -1287215695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_27
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 800
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128185dc4d3669a49aa6abbc15cdd265
+      internalID: 1998095693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_28
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 800
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87239b43fe2e78242b59a090eef0920c
+      internalID: 1088305419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_29
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 800
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ca951cc80944241879f2e1d22034b3
+      internalID: 883635061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_30
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 800
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4c0ddbe88d3b44b92b16b4e6ec3831
+      internalID: -115575203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_31
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 800
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c294c48fdafb5b4f829abff05af5c5a
+      internalID: -1081641871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_32
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 800
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cb0c92a22da03498e7380dbc5ee704
+      internalID: -1036721922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_33
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 800
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985dabee447b7cd409d4268ad9458f30
+      internalID: 864490900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_34
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 800
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26281e995e1a90d43bc430e76f296638
+      internalID: 1986905814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_35
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 800
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6992baf1ed5537b46afb7dae36495b06
+      internalID: -275333939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_36
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 800
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37f546175b7ef742be9b99c8b9d618a
+      internalID: 108653770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15350c422a3101439693c2daa61211f
+      internalID: -1568547786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 720
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e895d0ab86536944a380e1289859c05
+      internalID: 1047110080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 720
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2290ea632398e814abee7bbc795bdceb
+      internalID: 1434017469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_40
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 720
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241fef8212e981046b1f047dc617adad
+      internalID: -1805284711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_41
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 720
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ee44ae44a09d544bd0d5dc185b4050
+      internalID: -1095674115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_42
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316d1b7f4b35c19488eac86dab618753
+      internalID: -799032295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_43
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 720
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5fd85ce0b2bb8429ea5c6674bab852
+      internalID: -2002345987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_44
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 720
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f6755e8ab066843b9cce97dda8d2b4
+      internalID: -2088042511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_45
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 720
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6f90973e406a84b935947a14ca2ad3
+      internalID: -1395064923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_46
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 720
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb20aa5030c82243be379b8fb6ca966
+      internalID: -2022299587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_47
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 720
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e547416b036f645b7be356359b59a7
+      internalID: -1713163995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_48
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 720
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37ea4698bf4fe1428424b1c5465b5fc
+      internalID: -1725251067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_49
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 720
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3508680d7bc291e4ebe6de9c76d49357
+      internalID: -66052671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_50
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 720
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355d9a4147642c340b9a5b118d3dbe17
+      internalID: -1619415373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_51
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 720
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8abbf7145d4cd74486658c027f1e324
+      internalID: -1591870386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_52
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 720
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5aa2bafceb2fa4886b4731a333b4fc
+      internalID: 653478543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_53
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 720
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62351d29a9c79cb4c98dfd1e1c409b84
+      internalID: 1664379609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_54
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 720
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0deacfa076fc044da1c0b7d7e53d936
+      internalID: -332138532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_55
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 720
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625249d1936683840b726b61b5706457
+      internalID: -179083324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_56
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 720
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d9f0ae0495b314f9f22e7d7543d1aa
+      internalID: 920488109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_57
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 720
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f896eb7436403784f9958d3d65d485e7
+      internalID: 2124809829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cf7928e4bdacb4695b0d78e3603c54
+      internalID: 616863099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_59
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 640
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad744dfe82081c648847c7f78c7fb416
+      internalID: -1306415878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_60
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 640
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfe611bb92f0dc4a9c3867d8ade011e
+      internalID: 1964902328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_61
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 640
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e8a5bfb9316e346b7107ffd9e36bba
+      internalID: 1392343469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_62
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 640
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f6123d8ff9e394485b39ec30803ec8
+      internalID: 923393073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_63
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 640
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97c2ef8be25fd343815cbaffd31d08a
+      internalID: 1831536295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf76a7911b73f94c9b18d1597baaf8a
+      internalID: -1328270725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_65
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 560
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9002c0998d3705146b8dd8c136bc6d99
+      internalID: -587485040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 560
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f7595363e769a4c85ecda4496ad161
+      internalID: 913896561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_67
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 560
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3920b74900c7e5488f02c2bc67b4914
+      internalID: -1096760172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_68
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 560
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3968062a9db03f745bf3605b3e578833
+      internalID: -1512678428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 560
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795865b004698f0409a3f0f12ca4df3e
+      internalID: 9384497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_70
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 560
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398e879e8ef4dd24987290754db06a5e
+      internalID: 82968070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_71
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 560
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2e01b47c7434e409259f838527bfd2
+      internalID: 721771836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76627ecc1f7616444a421a03abb93290
+      internalID: -1973758572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e36204eaf25e24c9c6dfdbe388b399
+      internalID: -574500852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_74
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5b9f20c5acaca4e87c23971ba07cad
+      internalID: -803847548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_75
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 480
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb395bf321bde647995c478421ed2b9
+      internalID: -16326149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_76
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4806cb7c82127d43a15006e542112f1
+      internalID: 1583819928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_77
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51b76f8e4ea47d44a347681b5f22624
+      internalID: 99609918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_78
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 480
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8b266177aff804e8df8e9575438199
+      internalID: -1374105164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_79
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 480
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb901319019cde4a9f9291cdbbb2321
+      internalID: -2108825014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b82ae77c1c2a144b66a7a7d3b1ca45
+      internalID: -1864976914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_81
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 400
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c800746167bd5245bb981444323a0bf
+      internalID: 372669430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_82
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 400
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea2318a6e7a3c8458a54ed802b4fc0f
+      internalID: 295991586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_83
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 400
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae22fc5b4aa7b84481ae5bf96047fcc
+      internalID: -1075020749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30efc748cb5796d438f3b217035cee71
+      internalID: -1207013220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_85
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 320
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68881653e38aa444baec8b81b54b35e2
+      internalID: 114462980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982a90fa3bbbf304f9e8665a7817ac86
+      internalID: 1227895642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_87
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d93abc07acf21459130b444971d5f5
+      internalID: 2133870301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c207f1c368d394596f91a8be48ff76
+      internalID: -1154989611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_89
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b9f7be74fb81a49a22dbb9d811f568
+      internalID: -1584727425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_90
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9960b461c4a411f4da2c376c6cea7fab
+      internalID: 1632689854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_91
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 160
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e81a808a58ee94aa28e083b5dde91a
+      internalID: -1823337207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_92
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 160
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29084dbb8796d014588aa1400455fd08
+      internalID: 1922306915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_93
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 160
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2b6c328d9180a4097acb23d203108c
+      internalID: -721751522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_94
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 160
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7081cf401c4c6a448507db42d5e9982
+      internalID: -53016273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_95
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 160
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2301adce9bbbd4981d13b69483f08f
+      internalID: -549733405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_96
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 160
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5a16132e223cf4fb77dfd8a3fca03f
+      internalID: 450684589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_97
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 160
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d81c9e97d9464942a7f7512776154d6
+      internalID: 502383127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_98
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 160
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef94b35f38ac7943a0cd0894806d720
+      internalID: -803423988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_99
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 160
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94da05325dab79846b5c328a2bf414c2
+      internalID: 432807532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_100
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 160
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f131d591fb2a71a4ebcb0a1c4935f6d6
+      internalID: -1723409010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_101
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 160
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b504485ec25e3498196233b35f0c9b
+      internalID: 1290474905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f04f4dd91bf04498f5883a5af630fa
+      internalID: -937810366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_103
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e869f330c49385478278b74d0d7e600
+      internalID: 1760300796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_104
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872c1e1d84ae78c44896ad2e6f55443e
+      internalID: -37609102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_105
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 80
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0ff68bd2831904bb3df26bd4441eb3
+      internalID: -276755315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_106
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 80
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf568eab69e854d43b098e1ae9feb359
+      internalID: -233812813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14eef137572f944bb6e51c7af350069
+      internalID: 1646292680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_108
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6f7b0bf320ed64b979d0287f386ced
+      internalID: -935741620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_109
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8178e28cfaba8b448ba9e0b1fde1bb2
+      internalID: -670658561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_110
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1c51d491d31bb408acb9977a9bd122
+      internalID: 1045208267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_111
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7975aa0b7fd98f458132dd3e97e67c4
+      internalID: 1854561000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_112
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca9ff50bcaf5f743857342c6e318862
+      internalID: 1834089673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_113
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e085f8310a1c5bf47893601ba4e5ebdb
+      internalID: 667997711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 2.0-Full_114
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423fbeba74739b041961fca2f57f22c1
+      internalID: 1674941297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sky 2.0-Full_0: 1049144581
+      Sky 2.0-Full_1: -2035873135
+      Sky 2.0-Full_10: 1805152877
+      Sky 2.0-Full_100: -1723409010
+      Sky 2.0-Full_101: 1290474905
+      Sky 2.0-Full_102: -937810366
+      Sky 2.0-Full_103: 1760300796
+      Sky 2.0-Full_104: -37609102
+      Sky 2.0-Full_105: -276755315
+      Sky 2.0-Full_106: -233812813
+      Sky 2.0-Full_107: 1646292680
+      Sky 2.0-Full_108: -935741620
+      Sky 2.0-Full_109: -670658561
+      Sky 2.0-Full_11: 284006314
+      Sky 2.0-Full_110: 1045208267
+      Sky 2.0-Full_111: 1854561000
+      Sky 2.0-Full_112: 1834089673
+      Sky 2.0-Full_113: 667997711
+      Sky 2.0-Full_114: 1674941297
+      Sky 2.0-Full_12: 1671818135
+      Sky 2.0-Full_13: -190290867
+      Sky 2.0-Full_14: 409001961
+      Sky 2.0-Full_15: -1517068888
+      Sky 2.0-Full_16: -352996574
+      Sky 2.0-Full_17: 1053099072
+      Sky 2.0-Full_18: -2053856741
+      Sky 2.0-Full_19: -1383296404
+      Sky 2.0-Full_2: -429099449
+      Sky 2.0-Full_20: -1063885453
+      Sky 2.0-Full_21: 1136197430
+      Sky 2.0-Full_22: 1713098957
+      Sky 2.0-Full_23: 541374401
+      Sky 2.0-Full_24: 1374965691
+      Sky 2.0-Full_25: -702124253
+      Sky 2.0-Full_26: -1287215695
+      Sky 2.0-Full_27: 1998095693
+      Sky 2.0-Full_28: 1088305419
+      Sky 2.0-Full_29: 883635061
+      Sky 2.0-Full_3: 986114074
+      Sky 2.0-Full_30: -115575203
+      Sky 2.0-Full_31: -1081641871
+      Sky 2.0-Full_32: -1036721922
+      Sky 2.0-Full_33: 864490900
+      Sky 2.0-Full_34: 1986905814
+      Sky 2.0-Full_35: -275333939
+      Sky 2.0-Full_36: 108653770
+      Sky 2.0-Full_37: -1568547786
+      Sky 2.0-Full_38: 1047110080
+      Sky 2.0-Full_39: 1434017469
+      Sky 2.0-Full_4: -592004163
+      Sky 2.0-Full_40: -1805284711
+      Sky 2.0-Full_41: -1095674115
+      Sky 2.0-Full_42: -799032295
+      Sky 2.0-Full_43: -2002345987
+      Sky 2.0-Full_44: -2088042511
+      Sky 2.0-Full_45: -1395064923
+      Sky 2.0-Full_46: -2022299587
+      Sky 2.0-Full_47: -1713163995
+      Sky 2.0-Full_48: -1725251067
+      Sky 2.0-Full_49: -66052671
+      Sky 2.0-Full_5: 1631243305
+      Sky 2.0-Full_50: -1619415373
+      Sky 2.0-Full_51: -1591870386
+      Sky 2.0-Full_52: 653478543
+      Sky 2.0-Full_53: 1664379609
+      Sky 2.0-Full_54: -332138532
+      Sky 2.0-Full_55: -179083324
+      Sky 2.0-Full_56: 920488109
+      Sky 2.0-Full_57: 2124809829
+      Sky 2.0-Full_58: 616863099
+      Sky 2.0-Full_59: -1306415878
+      Sky 2.0-Full_6: -1719090787
+      Sky 2.0-Full_60: 1964902328
+      Sky 2.0-Full_61: 1392343469
+      Sky 2.0-Full_62: 923393073
+      Sky 2.0-Full_63: 1831536295
+      Sky 2.0-Full_64: -1328270725
+      Sky 2.0-Full_65: -587485040
+      Sky 2.0-Full_66: 913896561
+      Sky 2.0-Full_67: -1096760172
+      Sky 2.0-Full_68: -1512678428
+      Sky 2.0-Full_69: 9384497
+      Sky 2.0-Full_7: -1943144084
+      Sky 2.0-Full_70: 82968070
+      Sky 2.0-Full_71: 721771836
+      Sky 2.0-Full_72: -1973758572
+      Sky 2.0-Full_73: -574500852
+      Sky 2.0-Full_74: -803847548
+      Sky 2.0-Full_75: -16326149
+      Sky 2.0-Full_76: 1583819928
+      Sky 2.0-Full_77: 99609918
+      Sky 2.0-Full_78: -1374105164
+      Sky 2.0-Full_79: -2108825014
+      Sky 2.0-Full_8: 480347055
+      Sky 2.0-Full_80: -1864976914
+      Sky 2.0-Full_81: 372669430
+      Sky 2.0-Full_82: 295991586
+      Sky 2.0-Full_83: -1075020749
+      Sky 2.0-Full_84: -1207013220
+      Sky 2.0-Full_85: 114462980
+      Sky 2.0-Full_86: 1227895642
+      Sky 2.0-Full_87: 2133870301
+      Sky 2.0-Full_88: -1154989611
+      Sky 2.0-Full_89: -1584727425
+      Sky 2.0-Full_9: 1962655503
+      Sky 2.0-Full_90: 1632689854
+      Sky 2.0-Full_91: -1823337207
+      Sky 2.0-Full_92: 1922306915
+      Sky 2.0-Full_93: -721751522
+      Sky 2.0-Full_94: -53016273
+      Sky 2.0-Full_95: -549733405
+      Sky 2.0-Full_96: 450684589
+      Sky 2.0-Full_97: 502383127
+      Sky 2.0-Full_98: -803423988
+      Sky 2.0-Full_99: 432807532
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

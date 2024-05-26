@@ -1,0 +1,137 @@
+{ "frames": [
+   {
+    "filename": "Sky 2.0 #Hurt To death 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Hurt To death 1.aseprite",
+    "frame": { "x": 256, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Hurt To death 2.aseprite",
+    "frame": { "x": 512, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Hurt To death 3.aseprite",
+    "frame": { "x": 768, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Hurt To death 4.aseprite",
+    "frame": { "x": 1024, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Hurt To death 5.aseprite",
+    "frame": { "x": 1280, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Hurt To death 6.aseprite",
+    "frame": { "x": 1536, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Hurt To death 7.aseprite",
+    "frame": { "x": 1792, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Hurt To death 8.aseprite",
+    "frame": { "x": 2048, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Hurt To death 9.aseprite",
+    "frame": { "x": 2304, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Hurt To death 10.aseprite",
+    "frame": { "x": 2560, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Hurt To death 11.aseprite",
+    "frame": { "x": 2816, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Hurt To death 12.aseprite",
+    "frame": { "x": 3072, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Hurt To death 13.aseprite",
+    "frame": { "x": 3328, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.6-dev",
+  "image": "Sky 2.0-Hurt To death.png",
+  "format": "RGBA8888",
+  "size": { "w": 3584, "h": 128 },
+  "scale": "1"
+ }
+}

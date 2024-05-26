@@ -1,0 +1,200 @@
+{ "frames": [
+   {
+    "filename": "Sky 2.0 #Atk Full 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Atk Full 1.aseprite",
+    "frame": { "x": 256, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Atk Full 2.aseprite",
+    "frame": { "x": 512, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Atk Full 3.aseprite",
+    "frame": { "x": 768, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Atk Full 4.aseprite",
+    "frame": { "x": 1024, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Atk Full 5.aseprite",
+    "frame": { "x": 1280, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Atk Full 6.aseprite",
+    "frame": { "x": 1536, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Atk Full 7.aseprite",
+    "frame": { "x": 1792, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Atk Full 8.aseprite",
+    "frame": { "x": 2048, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Atk Full 9.aseprite",
+    "frame": { "x": 2304, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Atk Full 10.aseprite",
+    "frame": { "x": 2560, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Atk Full 11.aseprite",
+    "frame": { "x": 2816, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Atk Full 12.aseprite",
+    "frame": { "x": 3072, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Atk Full 13.aseprite",
+    "frame": { "x": 3328, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "Sky 2.0 #Atk Full 14.aseprite",
+    "frame": { "x": 3584, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Atk Full 15.aseprite",
+    "frame": { "x": 3840, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Atk Full 16.aseprite",
+    "frame": { "x": 4096, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Atk Full 17.aseprite",
+    "frame": { "x": 4352, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Atk Full 18.aseprite",
+    "frame": { "x": 4608, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Atk Full 19.aseprite",
+    "frame": { "x": 4864, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   },
+   {
+    "filename": "Sky 2.0 #Atk Full 20.aseprite",
+    "frame": { "x": 5120, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 110
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.6-dev",
+  "image": "Sky 2.0-Atk Full.png",
+  "format": "RGBA8888",
+  "size": { "w": 5376, "h": 128 },
+  "scale": "1"
+ }
+}

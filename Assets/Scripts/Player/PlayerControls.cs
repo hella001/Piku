@@ -53,6 +53,15 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""interactions"": ""Press(behavior=2)"",
                     ""initialStateCheck"": false
+                },
+                {
+                    ""name"": ""Dialogue"",
+                    ""type"": ""Button"",
+                    ""id"": ""dafe11d3-7f71-47a4-92be-2c3ab6a3a365"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
                 }
             ],
             ""bindings"": [
@@ -143,6 +152,17 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
                     ""action"": ""AttackSword"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""ac68833e-b6db-4fd0-92c3-56416141a403"",
+                    ""path"": ""<Keyboard>/g"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Dialogue"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
                 }
             ]
         }
@@ -154,6 +174,7 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
         m_Land_Move = m_Land.FindAction("Move", throwIfNotFound: true);
         m_Land_Jump = m_Land.FindAction("Jump", throwIfNotFound: true);
         m_Land_AttackSword = m_Land.FindAction("AttackSword", throwIfNotFound: true);
+        m_Land_Dialogue = m_Land.FindAction("Dialogue", throwIfNotFound: true);
     }
 
     public void Dispose()
@@ -218,6 +239,7 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
     private readonly InputAction m_Land_Move;
     private readonly InputAction m_Land_Jump;
     private readonly InputAction m_Land_AttackSword;
+    private readonly InputAction m_Land_Dialogue;
     public struct LandActions
     {
         private @PlayerControls m_Wrapper;
@@ -225,6 +247,7 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
         public InputAction @Move => m_Wrapper.m_Land_Move;
         public InputAction @Jump => m_Wrapper.m_Land_Jump;
         public InputAction @AttackSword => m_Wrapper.m_Land_AttackSword;
+        public InputAction @Dialogue => m_Wrapper.m_Land_Dialogue;
         public InputActionMap Get() { return m_Wrapper.m_Land; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
@@ -243,6 +266,9 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
             @AttackSword.started += instance.OnAttackSword;
             @AttackSword.performed += instance.OnAttackSword;
             @AttackSword.canceled += instance.OnAttackSword;
+            @Dialogue.started += instance.OnDialogue;
+            @Dialogue.performed += instance.OnDialogue;
+            @Dialogue.canceled += instance.OnDialogue;
         }
 
         private void UnregisterCallbacks(ILandActions instance)
@@ -256,6 +282,9 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
             @AttackSword.started -= instance.OnAttackSword;
             @AttackSword.performed -= instance.OnAttackSword;
             @AttackSword.canceled -= instance.OnAttackSword;
+            @Dialogue.started -= instance.OnDialogue;
+            @Dialogue.performed -= instance.OnDialogue;
+            @Dialogue.canceled -= instance.OnDialogue;
         }
 
         public void RemoveCallbacks(ILandActions instance)
@@ -278,5 +307,6 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
         void OnMove(InputAction.CallbackContext context);
         void OnJump(InputAction.CallbackContext context);
         void OnAttackSword(InputAction.CallbackContext context);
+        void OnDialogue(InputAction.CallbackContext context);
     }
 }

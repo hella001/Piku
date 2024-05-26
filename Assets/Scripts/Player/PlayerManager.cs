@@ -10,6 +10,11 @@ public class PlayerManager : MonoBehaviour
     public static bool isGameOver;
     public GameObject gameOverScreen;
     public GameObject pauseMenuScreen;
+    public GameObject panelMove;
+    public GameObject panelJump;
+    public GameObject panelAttack;
+    public GameObject panelHealth;
+    public GameObject panelPause;
 
     public static Vector2 lastCheckPointPos = new Vector2(-7,0);
 
@@ -61,5 +66,34 @@ public class PlayerManager : MonoBehaviour
     public void GoToMenu()
     {
         SceneManager.LoadScene("Menu");
+    }
+
+    public void Move()
+    {
+        panelMove.SetActive(false);
+        panelJump.SetActive(true);
+    }
+
+    public void Jump()
+    {
+        panelJump.SetActive(false);
+        panelAttack.SetActive(true);
+    }
+
+    public void Attack()
+    {
+        panelAttack.SetActive(false);
+        panelHealth.SetActive(true);
+    }
+
+    public void Health()
+    {
+        panelHealth.SetActive(false);
+        panelPause.SetActive(true);
+    }
+
+    public void Pause()
+    {
+        panelPause.SetActive(false);
     }
 }
