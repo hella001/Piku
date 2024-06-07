@@ -13,6 +13,7 @@ public class IdleState : StateMachineBehaviour
     {
         target = GameObject.FindGameObjectWithTag("Player").transform;
         borderCheck = animator.GetComponent<FierceTooth>().borderCheck;
+        //borderCheck = animator.GetComponent<FierceTooth1>().borderCheck;
     }
 
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks

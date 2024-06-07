@@ -18,6 +18,8 @@ public class PlayerMovement : MonoBehaviour
     public Transform groundCheck;
     public LayerMask groundLayer;
 
+    private bool isMoving = false;
+
     private void Awake()
     {
         controls = new PlayerControls();
@@ -49,6 +51,18 @@ public class PlayerMovement : MonoBehaviour
         playerRB.velocity = new Vector2(direction * speed * Time.fixedDeltaTime, playerRB.velocity.y);
         animator.SetFloat("speed", Mathf.Abs(direction));
 
+        // Audio play logic for running
+        if (Mathf.Abs(direction) > 0 && !isMoving)
+        {
+            isMoving = true;
+            AudioManager.instance.Play("Run");
+        }
+        else if (Mathf.Abs(direction) == 0 && isMoving)
+        {
+            isMoving = false;
+            AudioManager.instance.Stop("Run");
+        }
+
         if (isFachingRight && direction < 0 || !isFachingRight && direction > 0)
             Flip();
     }
@@ -65,7 +79,7 @@ public class PlayerMovement : MonoBehaviour
         {
             AudioManager.instance.Play("FirsJump");
             playerRB.velocity = new Vector2(playerRB.velocity.x, jumpForce);
-            numberOfJumps++; 
+            numberOfJumps++;
 
             if (numberOfJumps == 0)
             {

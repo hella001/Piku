@@ -6,17 +6,17 @@ using TMPro;
 
 public class PlayerManager : MonoBehaviour
 {
-
     public static bool isGameOver;
     public GameObject gameOverScreen;
     public GameObject pauseMenuScreen;
+    public GameObject settingMenuScreen;
     public GameObject panelMove;
     public GameObject panelJump;
     public GameObject panelAttack;
     public GameObject panelHealth;
     public GameObject panelPause;
 
-    public static Vector2 lastCheckPointPos = new Vector2(-7,0);
+    public static Vector2 lastCheckPointPos = new Vector2(-7, 0);
 
     public static int numberOfCoins;
     public TextMeshProUGUI coinsText;
@@ -32,7 +32,7 @@ public class PlayerManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
@@ -57,6 +57,18 @@ public class PlayerManager : MonoBehaviour
         pauseMenuScreen.SetActive(true);
     }
 
+    public void settingScreenActive()
+    {
+        settingMenuScreen.SetActive(true);
+        pauseMenuScreen.SetActive(false);
+    }
+
+    public void settingScreenDeActive()
+    {
+        pauseMenuScreen.SetActive(true);
+        settingMenuScreen.SetActive(false);
+    }
+
     public void ResumeGame()
     {
         Time.timeScale = 1;
@@ -71,7 +83,7 @@ public class PlayerManager : MonoBehaviour
     public void Move()
     {
         panelMove.SetActive(false);
-        panelJump.SetActive(true);
+        panelMove.SetActive(false);
     }
 
     public void Jump()
@@ -95,5 +107,15 @@ public class PlayerManager : MonoBehaviour
     public void Pause()
     {
         panelPause.SetActive(false);
+    }
+
+    public void ExitGame()
+    {
+        // This will work only in built application, not in editor
+        Application.Quit();
+#if UNITY_EDITOR
+        // If in the editor, stop playing the scene
+        UnityEditor.EditorApplication.isPlaying = false;
+#endif
     }
 }

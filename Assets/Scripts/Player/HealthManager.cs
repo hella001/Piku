@@ -5,8 +5,7 @@ using UnityEngine.UI;
 
 public class HealthManager : MonoBehaviour
 {
-
-    public static int health = 3;
+    public static int health = 5;
 
     public Image[] hearts;
     public Sprite fullHeart;
@@ -14,15 +13,14 @@ public class HealthManager : MonoBehaviour
 
     void Awake()
     {
-        health = 3;   
-    }
-    // Start is called before the first frame update
-    void Start()
-    {
-        
+        health = 5;
     }
 
-    // Update is called once per frame
+    void Start()
+    {
+
+    }
+
     void Update()
     {
         foreach (Image img in hearts)
@@ -33,5 +31,10 @@ public class HealthManager : MonoBehaviour
         {
             hearts[i].sprite = fullHeart;
         }
+    }
+
+    public void SetHealthToZero()
+    {
+        health = 0;
     }
 }

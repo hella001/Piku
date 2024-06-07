@@ -1,0 +1,1346 @@
+fileFormatVersion: 2
+guid: a5ab4dccb1871314eb786c4d13313061
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sky 3.0-Full_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1717d93c215b4e040b05455ce8011cf3
+      internalID: 1710647609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 720
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c797073352371894e849e8500bf7423f
+      internalID: -1664635217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 720
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9036366c521874c9ae45911e635ad5
+      internalID: 1981353141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 720
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36d64170a78e2b4db0e43a278c23298
+      internalID: 188780817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 720
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db059d9cef0a0da45ab97d6c475a73a8
+      internalID: -1973922702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e37dde3e009a21498e00c623e3cee73
+      internalID: -507753041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_6
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 720
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e975186d817dfe44a2c72a1604c6847
+      internalID: 923527742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_7
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 720
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ea5ee3fb235dd47b41c6c155ed05cd
+      internalID: 857199990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9396e337a5d8c39498655dd972793d7d
+      internalID: 109728725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 640
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a65f097cbec91249897b6eafd803200
+      internalID: -717289933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 640
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5281da27f41414d9a05d5502f66714
+      internalID: -264446335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_11
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 640
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1770436dfaae34d9bc976fc7289edd
+      internalID: -1319651384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 640
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ac5a1a0cd0b0f4ca21728325aa2441
+      internalID: -515122870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 640
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e7a2cd1b556ce49b0ce81473ce49e4
+      internalID: -1916157722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_14
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 640
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022df53b67bdce74f854f18398700cd4
+      internalID: 1661482004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_15
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 640
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4dd4cdb6bd01746a07d7d346cc33ea
+      internalID: 873744138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238cb92279adab0418d2a000c537c451
+      internalID: -857766076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 560
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae26cda5acd78314daf27039da768a1e
+      internalID: -1828168628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 560
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b392d4a94ed7f54eb95d213656970c1
+      internalID: -127989298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_19
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 560
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02534b5fd089bb34db246952439bc068
+      internalID: 869007184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_20
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 560
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee82a9d5a2909e47b340b4d81479b18
+      internalID: -1520075758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_21
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 560
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e249c0abd8acd7740b7aeeebbc473716
+      internalID: 427628328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716633802f61cf646a3a8869b9304803
+      internalID: -1438824100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a132287d5a8b144b57cdf11c86acb2
+      internalID: 1102342399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069629c2c3c280d439d9ab5d898ec901
+      internalID: 922361771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_25
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 480
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a17543f61bcfc643b10521d5fd5d2cf
+      internalID: 974609927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_26
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae9b37c49d391848b595d59dd378ca4
+      internalID: -843244449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_27
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bc805eb5d581f4b8abd05b59bd4db5
+      internalID: 2122787436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5fa17517de21d4e97bf0f6b48e0edf
+      internalID: 589818444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 400
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3704a120137a13478883d24437801f6
+      internalID: -1355122050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 400
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59bc1c3a275fb0478fc02cd60c6de94
+      internalID: -453572040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_31
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 400
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcfc4f48c334214dbc1004b292b09eb
+      internalID: 372321412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_32
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 400
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443921e81f81fa743974e93bb40d6294
+      internalID: 939074273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 400
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6027c077f2b5b42ba20f2073f01011
+      internalID: 1256209023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_34
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 400
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58806375100a1f64cba022357d19d31d
+      internalID: 2114585627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_35
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 400
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7f710edadfcfc42a60e373ddd7f7a0
+      internalID: -1009375882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829b241cb12645c4b841f8df095daaef
+      internalID: -1116751524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_37
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 320
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ac57b6c6464fd46a61b47b099f4a81
+      internalID: -1668053973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d00499483b5db4f857a38162a5fdde
+      internalID: 301632151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20ca85ff85732b49bcc48efc89e35f9
+      internalID: -303666756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4241c14ee3c01154db39476df7134dae
+      internalID: -214716372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9607848f9237cdc44aa1c9ab6d514bc6
+      internalID: 1411163038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef75b3f4974b7445ac8a70be3ad0034
+      internalID: -1549524432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c347f8abe9b62c049a7ae278480b7957
+      internalID: 253838819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_44
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f630faff933983469a44b1e7972900a
+      internalID: -865698202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_45
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 80
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63490618d5a1d6408a0b5cede78fb55
+      internalID: 971185442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_46
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 80
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5ce690b39846548aa04f276eb0bc5a
+      internalID: -1622706407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302e73e6787072b47b807e1d9984719a
+      internalID: -664723150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54745cba56da0945ad02200f3891acd
+      internalID: -1167368042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fc5e63e0e8c2747964228aca4e3248
+      internalID: -1727038667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_50
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de33f10bbcbef3f42b12ae99bf120415
+      internalID: -2031256525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_51
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b378ca471c5d1d43819c5de429c889a
+      internalID: -1159497327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_52
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27429f189dd46c4394c8cb962c8e5bf
+      internalID: -1514324533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_53
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7073ff3d89f87464b93ee61f498420c1
+      internalID: -1515398440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_54
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c148b8af9ed5040997b9fe41021134
+      internalID: 247835935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky 3.0-Full_55
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 144
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1333f89f3f3794988c876b14c4f764
+      internalID: -1466760399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sky 3.0-Full_0: 1710647609
+      Sky 3.0-Full_1: -1664635217
+      Sky 3.0-Full_10: -264446335
+      Sky 3.0-Full_11: -1319651384
+      Sky 3.0-Full_12: -515122870
+      Sky 3.0-Full_13: -1916157722
+      Sky 3.0-Full_14: 1661482004
+      Sky 3.0-Full_15: 873744138
+      Sky 3.0-Full_16: -857766076
+      Sky 3.0-Full_17: -1828168628
+      Sky 3.0-Full_18: -127989298
+      Sky 3.0-Full_19: 869007184
+      Sky 3.0-Full_2: 1981353141
+      Sky 3.0-Full_20: -1520075758
+      Sky 3.0-Full_21: 427628328
+      Sky 3.0-Full_22: -1438824100
+      Sky 3.0-Full_23: 1102342399
+      Sky 3.0-Full_24: 922361771
+      Sky 3.0-Full_25: 974609927
+      Sky 3.0-Full_26: -843244449
+      Sky 3.0-Full_27: 2122787436
+      Sky 3.0-Full_28: 589818444
+      Sky 3.0-Full_29: -1355122050
+      Sky 3.0-Full_3: 188780817
+      Sky 3.0-Full_30: -453572040
+      Sky 3.0-Full_31: 372321412
+      Sky 3.0-Full_32: 939074273
+      Sky 3.0-Full_33: 1256209023
+      Sky 3.0-Full_34: 2114585627
+      Sky 3.0-Full_35: -1009375882
+      Sky 3.0-Full_36: -1116751524
+      Sky 3.0-Full_37: -1668053973
+      Sky 3.0-Full_38: 301632151
+      Sky 3.0-Full_39: -303666756
+      Sky 3.0-Full_4: -1973922702
+      Sky 3.0-Full_40: -214716372
+      Sky 3.0-Full_41: 1411163038
+      Sky 3.0-Full_42: -1549524432
+      Sky 3.0-Full_43: 253838819
+      Sky 3.0-Full_44: -865698202
+      Sky 3.0-Full_45: 971185442
+      Sky 3.0-Full_46: -1622706407
+      Sky 3.0-Full_47: -664723150
+      Sky 3.0-Full_48: -1167368042
+      Sky 3.0-Full_49: -1727038667
+      Sky 3.0-Full_5: -507753041
+      Sky 3.0-Full_50: -2031256525
+      Sky 3.0-Full_51: -1159497327
+      Sky 3.0-Full_52: -1514324533
+      Sky 3.0-Full_53: -1515398440
+      Sky 3.0-Full_54: 247835935
+      Sky 3.0-Full_55: -1466760399
+      Sky 3.0-Full_6: 923527742
+      Sky 3.0-Full_7: 857199990
+      Sky 3.0-Full_8: 109728725
+      Sky 3.0-Full_9: -717289933
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

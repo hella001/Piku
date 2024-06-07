@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -121,7 +121,994 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 443.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9b2a0b17268b2488f56d4390533704
+      internalID: -1569977234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 443.2
+        width: 144.54546
+        height: 110.8
+      alignment: 9
+      pivot: {x: 0.51439023, y: 0.49999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf811954d14cc1641a2caf7eb0a0299c
+      internalID: 509346516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 443.2
+        width: 144.54546
+        height: 110.8
+      alignment: 9
+      pivot: {x: 0.5233206, y: 0.49922404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee3b75f8632aee49b612aa110e3afbd
+      internalID: -1318855868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 443.2
+        width: 144.54546
+        height: 110.8
+      alignment: 9
+      pivot: {x: 0.5409741, y: 0.5000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ab894af00f3cc44b0cb2d030b100c0
+      internalID: -91142730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 443.2
+        width: 144.54546
+        height: 110.8
+      alignment: 9
+      pivot: {x: 0.55283, y: 0.5000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d7bb742ee5ad1408908c3d6cec3fdc
+      internalID: -2115928963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 443.2
+        width: 144.54546
+        height: 110.8
+      alignment: 9
+      pivot: {x: 0.5678327, y: 0.49847296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622ff1956802e7c4d861081bb20d0d3b
+      internalID: 2014046378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_6
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 443.2
+        width: 144.54546
+        height: 110.8
+      alignment: 9
+      pivot: {x: 0.57362014, y: 0.49825206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6ce907c7c5637489d682193fa82add
+      internalID: 1003735282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_7
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 443.2
+        width: 144.54546
+        height: 110.8
+      alignment: 9
+      pivot: {x: 0.5844991, y: 0.49853024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedfd8ef8bacadc48885165686df74d1
+      internalID: -1119440103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 333.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77b01a88a0b12245921656db5f85aed
+      internalID: -522416295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 333.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262889ad985eeab41a0470863898c158
+      internalID: 1257485053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 333.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0aba454fff6be4409e8d525940fdb9b
+      internalID: 1939946152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_11
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 333.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e944a0b8c74478e4cbe0fa355acf4f13
+      internalID: -1588512621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 333.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb3af4e631aa78448d995385485b46e
+      internalID: -862870337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 333.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b57ffc175b148d4dad4eaf9ba4271f6
+      internalID: 1303590589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_14
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 333.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2636ad15f641bf94bb6948e02a9d4bed
+      internalID: -1496603904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_15
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 333.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc21e6c8854bbd4686b8fe76d967d6b
+      internalID: 351995460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fdf603125e36a4494287549c5f3ae0
+      internalID: -2072171808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 223.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9011690a200d0d1489227463dbb4ceba
+      internalID: -1636675254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 223.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7299cd1c9065c45a2355b4ee61c02f
+      internalID: -1919253649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_19
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 223.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254f62e75b84a304996fde96f5e3fccf
+      internalID: -1274840867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_20
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 223.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db97ce6857a09442a7f8c20af4c9b3c
+      internalID: -800672160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_21
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 223.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262a813c69067cc4ea57246040aa1507
+      internalID: -1191294802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_22
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 223.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c86a5f55cfe73418d5819c68228f58
+      internalID: -483647845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_23
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 223.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f22c7901a3de5c4aa1daf6620cead9f
+      internalID: 1363775619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_24
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 223.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266fd946bb7b71c4b8547d897a405cc5
+      internalID: -558559447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_25
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 223.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b77d296c8b2910459443beb5a152428
+      internalID: 832306486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_26
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 223.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88824d4124831c499527e5de2c02865
+      internalID: -1272609875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182f23bb0453f944e93f447e05d5ba31
+      internalID: -865382053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_28
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 113.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f075167fae7045246adab89788af8be0
+      internalID: -975925985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 113.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad4837527212ee4799a36b426596616
+      internalID: 1510785233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_30
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 113.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1f46253fafaeb40b9d1997647304a2
+      internalID: 1469974582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_31
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 113.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1beabe3d0d6450e4eb0f8567d32ada3b
+      internalID: -2127639754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_32
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 113.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba698f4a5c799a439eeb40b2be45532
+      internalID: 1574995070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_33
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 113.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120049aa09f541b46876d46cb3343adb
+      internalID: -817477720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_34
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 113.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0d8e2b64ae04c47885203ab64e6b35
+      internalID: 370460427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_35
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 113.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370743d065923604bacdb74ea82ad257
+      internalID: 1467413604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_36
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 113.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909b7db6f3dfc8e4598e18404990f62a
+      internalID: -1187915521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_37
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 113.2
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2349dd2416ea04098974f0ae73c4f3
+      internalID: -642267517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.199997
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef9165ab4e60b247aeb3e5c758a74b4
+      internalID: 444303738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 3.199997
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891f41f0fe0bfe441bde89709ef9547c
+      internalID: 1746066811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_40
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3.199997
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d7edcd99e38e242b93c4784d433081
+      internalID: 1760022035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_41
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3.199997
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67345628224e74943b4431163b5579ef
+      internalID: 1581500704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_42
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3.199997
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4ec6ec674b04e4099fdcf7bc1434d7
+      internalID: 422402794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_43
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3.199997
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d351d5b300e447d4a97fda53d1105aac
+      internalID: 1994744782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_44
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 3.199997
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8916398539548f748902c294b592e4e0
+      internalID: -800383728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_45
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 3.199997
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d3a70d816a5d54fb701e6b405e1ed9
+      internalID: -1171692215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit 2.0-Full_46
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 3.199997
+        width: 144.54546
+        height: 110.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced94f3aff1f37c49808c5f02a0ac762
+      internalID: -1056732428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +1119,54 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bandit 2.0-Full_0: -1569977234
+      Bandit 2.0-Full_1: 509346516
+      Bandit 2.0-Full_10: 1939946152
+      Bandit 2.0-Full_11: -1588512621
+      Bandit 2.0-Full_12: -862870337
+      Bandit 2.0-Full_13: 1303590589
+      Bandit 2.0-Full_14: -1496603904
+      Bandit 2.0-Full_15: 351995460
+      Bandit 2.0-Full_16: -2072171808
+      Bandit 2.0-Full_17: -1636675254
+      Bandit 2.0-Full_18: -1919253649
+      Bandit 2.0-Full_19: -1274840867
+      Bandit 2.0-Full_2: -1318855868
+      Bandit 2.0-Full_20: -800672160
+      Bandit 2.0-Full_21: -1191294802
+      Bandit 2.0-Full_22: -483647845
+      Bandit 2.0-Full_23: 1363775619
+      Bandit 2.0-Full_24: -558559447
+      Bandit 2.0-Full_25: 832306486
+      Bandit 2.0-Full_26: -1272609875
+      Bandit 2.0-Full_27: -865382053
+      Bandit 2.0-Full_28: -975925985
+      Bandit 2.0-Full_29: 1510785233
+      Bandit 2.0-Full_3: -91142730
+      Bandit 2.0-Full_30: 1469974582
+      Bandit 2.0-Full_31: -2127639754
+      Bandit 2.0-Full_32: 1574995070
+      Bandit 2.0-Full_33: -817477720
+      Bandit 2.0-Full_34: 370460427
+      Bandit 2.0-Full_35: 1467413604
+      Bandit 2.0-Full_36: -1187915521
+      Bandit 2.0-Full_37: -642267517
+      Bandit 2.0-Full_38: 444303738
+      Bandit 2.0-Full_39: 1746066811
+      Bandit 2.0-Full_4: -2115928963
+      Bandit 2.0-Full_40: 1760022035
+      Bandit 2.0-Full_41: 1581500704
+      Bandit 2.0-Full_42: 422402794
+      Bandit 2.0-Full_43: 1994744782
+      Bandit 2.0-Full_44: -800383728
+      Bandit 2.0-Full_45: -1171692215
+      Bandit 2.0-Full_46: -1056732428
+      Bandit 2.0-Full_5: 2014046378
+      Bandit 2.0-Full_6: 1003735282
+      Bandit 2.0-Full_7: -1119440103
+      Bandit 2.0-Full_8: -522416295
+      Bandit 2.0-Full_9: 1257485053
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

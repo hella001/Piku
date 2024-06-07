@@ -22,7 +22,7 @@ public class NextScene : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player") && dialogueScript != null && dialogueScript.IsDialogueCompleted())
         {
-            SceneManager.LoadScene("Level1");
+            SceneManager.LoadScene("Tutorial");
         }
     }
 
