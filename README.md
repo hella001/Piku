@@ -1,6 +1,6 @@
 # Nama Game Anda
 
-![Sky&Hope](https://github.com/hella001/piku/Picture/Icon.png)
+![Sky&Hope](https://github.com/hella001/piku/blob/main/Picture/Icon.png)
 
 ## Deskripsi
 
@@ -24,13 +24,13 @@ Berikut adalah daftar scene yang terdapat dalam game beserta gambarnya:
 
 | Nama Scene         | Gambar Scene                |
 |--------------------|-----------------------------|
-| Scene 1: Main Menu    | ![Scene 1](https://github.com/hella001/piku/Picture/MainMenu.jpg) |
-| Scene 2: Rumah    | ![Scene 2](https://github.com/hella001/piku/Picture/Home.jpg) |
-| Scene 3: Tutorial    | ![Scene 3](https://github.com/hella001/piku/Picture/Tutorial.jpg) |
-| Scene 4: Desa    | ![Scene 4](https://github.com/hella001/piku/Picture/Village.jpg) |
-| Scene 5: Level 1    | ![Scene 5](https://github.com/hella001/piku/Picture/Level1.jpg) |
-| Scene 6: Level 2    | ![Scene 6](https://github.com/hella001/piku/Picture/Level2.jpg) |
-| Scene 7: Luar Rumah    | ![Scene 7](https://github.com/hella001/piku/Picture/OutHome.jpg) |
+| Scene 1: Main Menu    | ![Scene 1](https://github.com/hella001/piku/blob/main/Picture/MainMenu.jpg) |
+| Scene 2: Rumah    | ![Scene 2](https://github.com/hella001/piku/blob/main/Picture/Home.jpg) |
+| Scene 3: Tutorial    | ![Scene 3](https://github.com/hella001/piku/blob/main/Picture/Tutorial.jpg) |
+| Scene 4: Desa    | ![Scene 4](https://github.com/hella001/piku/blob/main/Picture/Village.jpg) |
+| Scene 5: Level 1    | ![Scene 5](https://github.com/hella001/piku/blob/main/Picture/Level1.jpg) |
+| Scene 6: Level 2    | ![Scene 6](https://github.com/hella001/piku/blob/main/Picture/Level2.jpg) |
+| Scene 7: Luar Rumah    | ![Scene 7](https://github.com/hella001/piku/blob/main/Picture/OutHome.jpg) |
 
 ## Instalasi
 
